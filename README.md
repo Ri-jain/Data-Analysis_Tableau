@@ -1,6 +1,6 @@
 # Data-Analysis_Tableau
 
-AirBNB ANalysis
+Airbnb Analysis
 -Chicago
 -New Orleans
 
